@@ -20,16 +20,6 @@ src="https://raw.githubusercontent.com/gist/Luis-Filipe-Santos/a3fb1029ab6135d8e
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Luis-Filipe-Santos&show_icons=true&theme=vision-friendly-dark"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Filipe-Santos&layout=compact&theme=vision-friendly-dark" alt="Luis-Filipe-Santos's most languages"/>
-</p>
-
-<br><br>
 
 ## Contact
 
