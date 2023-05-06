@@ -1,35 +1,21 @@
-<img align="right" height="590em" 
-src="https://raw.githubusercontent.com/gist/Luis-Filipe-Santos/a3fb1029ab6135d8e3d9987f9daf70bd/raw/6840b324d1e9d3711a9ae95f526be5008ad91a44/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luis Filipe</h1>
+<h1 align="center">Oi 👋, Eu sou Luis Filipe</h1>
+<h3 align="center">Apaixonado por análise de dados e tudo do mundo digital</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luis-Filipe-Santos&color=yellow" alt="Profile views" /> </p>
+- 🌱Atualmente estou aprendendo **Python, SQL e R**
 
-- 🔥 Student of Production Engineering and Information Systems & professional seeking career transition.
+- 💬 Me pergunte sobre **Excel, Power BI, Google Data Studio e Python**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Wordpress, Node.JS, React**
+- 📫 Você me encontra através do e-mail **filipesantos.silvaluis@gmail.com**
 
-<br><br>
+- 📄 Aqui estão algumas habilidades [www.linkedin.com/in/luisfilipesantossilva/](www.linkedin.com/in/luisfilipesantossilva/)
 
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
-## Contact
-
-<a href="https://www.linkedin.com/in/luisfilipesantossilva/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-filipesantos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/filipe_lss/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-filipesantos-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.facebook.com/l.filipe.ss" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-filipesantos-05122A?style=flat&logo=facebook" alt="facebook"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/luisfilipesantossilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luisfilipesantossilva/" height="30" width="40" /></a>
+<a href="https://instagram.com/filipe_lss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filipe_lss" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luis-filipe-santos&show_icons=true&locale=en&layout=compact" alt="luis-filipe-santos" /></p>
