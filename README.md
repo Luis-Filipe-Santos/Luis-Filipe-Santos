@@ -7,7 +7,7 @@
 
 - 📫 Você me encontra através do e-mail **filipesantos.silvaluis@gmail.com**
 
-- 📄 Aqui estão algumas habilidades que eu possuo [www.linkedin.com/in/luisfilipesantossilva/](www.linkedin.com/in/luisfilipesantossilva/)
+- 📄 Aqui estão algumas habilidades que eu possuo [www.linkedin.com/in/luis-filipe-santos-silva](www.linkedin.com/in/luis-filipe-santos-silva)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
