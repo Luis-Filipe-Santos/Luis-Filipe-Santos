@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Luis Filipe</h1>
 <h3 align="center">Apaixonado por análise de dados e tudo do mundo digital</h3>
 
-- 🌱Atualmente estou aprendendo **Python, SQL e R**
+- 🌱Atualmente estou aprendendo **Python e SQL**
 
-- 💬 Me pergunte sobre **Excel, Power BI, Google Data Studio e Python**
+- 💬 Me pergunte sobre **Excel, Power BI e Google Data Studio**
 
 - 📫 Você me encontra através do e-mail **filipesantos.silvaluis@gmail.com**
 
