@@ -23,7 +23,7 @@ Quer saber mais sobre minhas habilidades? Confira meu LinkedIn!
 🚀 Projetos em Destaque
 Aqui estão alguns dos meus projetos no GitHub que demonstram meu trabalho com dados:
 
-- Análise de Transparência (https://github.com/Luis-Filipe-Santos/analise-transparencia)): Projeto focado na análise de dados para promover transparência, utilizando técnicas de visualização e manipulação de dados.
+- Análise de Transparência (https://github.com/Luis-Filipe-Santos/analise-transparencia): Projeto focado na análise de dados para promover transparência, utilizando técnicas de visualização e manipulação de dados.
 - ETL Python Excel (Em breve): Implementação de um processo ETL (Extract, Transform, Load) em Python para processar e transformar dados de planilhas Excel.
 - Logistics (Em breve): Projeto voltado para análise e otimização de dados logísticos, explorando soluções baseadas em dados.
 
