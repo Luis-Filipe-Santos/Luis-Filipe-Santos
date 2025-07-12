@@ -1,5 +1,5 @@
 👋 Olá, eu sou Luis Filipe!
-Sou apaixonado por análise de dados e pelo universo digital. Busco transformar dados em insights valiosos usando ferramentas modernas e tecnologias de visualização. Estou sempre aprendendo e explorando novas formas de resolver problemas com dados.
+Sou apaixonado por análise de dados e pelo universo digital. Busco transformar dados em insights valiosos usando ferramentas modernas e tecnologias de visualização. Sempre aprendendo e explorando novas formas de resolver problemas com dados.
 
 🌱 O que estou aprendendo
 
@@ -23,8 +23,9 @@ Instagram: filipe_lss
 🚀 Projetos em Destaque
 Aqui estão alguns dos meus projetos no GitHub que demonstram meu trabalho com dados:
 
-[Projeto 1: Nome do Projeto] (Em breve): Descrição breve do projeto, como um dashboard em Power BI ou uma análise em Python.
-[Projeto 2: Nome do Projeto] (Em breve): Outra descrição breve, destacando o objetivo e tecnologias usadas.
+Análise de Transparência (Em breve): Projeto focado na análise de dados para promover transparência, utilizando técnicas de visualização e manipulação de dados.
+ETL Python Excel (Em breve): Implementação de um processo ETL (Extract, Transform, Load) em Python para processar e transformar dados de planilhas Excel.
+Logistics (Em breve): Projeto voltado para análise e otimização de dados logísticos, explorando soluções baseadas em dados.
 
 Confira meus repositórios abaixo para mais detalhes!
 🛠️ Linguagens e Ferramentas
