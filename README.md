@@ -1,21 +1,62 @@
-<h1 align="center">Oi 👋, Eu sou Luis Filipe</h1>
-<h3 align="center">Apaixonado por análise de dados e tudo do mundo digital</h3>
+👋 Olá, eu sou Luis Filipe!
+Sou apaixonado por análise de dados e pelo universo digital. Busco transformar dados em insights valiosos usando ferramentas modernas e tecnologias de visualização. Estou sempre aprendendo e explorando novas formas de resolver problemas com dados.
 
-- 🌱Atualmente estou aprendendo **Python e SQL**
+🌱 O que estou aprendendo
 
-- 💬 Me pergunte sobre **Excel, Power BI e Google Data Studio**
+Python: Automatização, manipulação de dados e análise estatística.
+SQL: Consultas avançadas e gerenciamento de bancos de dados relacionais.
 
-- 📫 Você me encontra através do e-mail **filipesantos.silvaluis@gmail.com**
+💼 Habilidades
 
-- 📄 Aqui estão algumas habilidades que eu possuo [www.linkedin.com/in/luis-filipe-santos-silva](www.linkedin.com/in/luis-filipe-santos-silva)
+Ferramentas de BI: Excel, Power BI, Google Data Studio.
+Bancos de Dados: MySQL, PostgreSQL, SQLite, Microsoft SQL Server.
+Controle de Versão: Git.
+Outros: Visualização de dados, automação de processos e criação de dashboards.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/luisfilipesantossilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luisfilipesantossilva/" height="30" width="40" /></a>
-<a href="https://instagram.com/filipe_lss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filipe_lss" height="30" width="40" /></a>
-</p>
+Quer saber mais sobre minhas habilidades? Confira meu LinkedIn!
+📫 Como me encontrar
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+E-mail: filipesantos.silvaluis@gmail.com
+LinkedIn: linkedin.com/in/luis-filipe-santos-silva
+Instagram: filipe_lss
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luis-filipe-santos&show_icons=true&locale=en&layout=compact" alt="luis-filipe-santos" /></p>
+🚀 Projetos em Destaque
+Aqui estão alguns dos meus projetos no GitHub que demonstram meu trabalho com dados:
+
+[Projeto 1: Nome do Projeto] (Em breve): Descrição breve do projeto, como um dashboard em Power BI ou uma análise em Python.
+[Projeto 2: Nome do Projeto] (Em breve): Outra descrição breve, destacando o objetivo e tecnologias usadas.
+
+Confira meus repositórios abaixo para mais detalhes!
+🛠️ Linguagens e Ferramentas
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+📊 Recursos e Conquistas em Dados
+Aqui estão algumas das minhas realizações e áreas de foco em análise de dados:
+
+Excel: Criação de planilhas dinâmicas com tabelas dinâmicas, macros em VBA e fórmulas avançadas para análises financeiras e operacionais.
+Power BI: Desenvolvimento de dashboards interativos para visualização de KPIs, com integração de múltiplas fontes de dados.
+SQL: Construção de consultas complexas (JOINs, subqueries, CTEs) para extrair insights de bancos de dados como MySQL e PostgreSQL.
+Google Data Studio: Criação de relatórios visuais para acompanhamento de métricas de marketing e desempenho operacional.
+Certificações (em progresso): Estou buscando certificações como Microsoft Certified: Data Analyst Associate e Google Data Analytics Professional.
+
+
+💬 Quer conversar sobre dados ou colaborar em um projeto? Entre em contato comigo!
