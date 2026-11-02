@@ -1,42 +1,27 @@
-# 👋 Olá, eu sou Luis Filipe!  
+# Olá, eu sou o Filipe
 
-Sou **desenvolvedor full stack** em **Python, React, PHP** e tecnologias relacionadas.  
-Além disso, sou apaixonado por **análise de dados** e pelo universo digital.  
-Gosto de transformar informações em soluções práticas, seja por meio de sistemas completos, seja por análises que gerem insights valiosos.  
-Estou sempre aprendendo e buscando novas formas de resolver problemas com tecnologia.  
+Analista de Processos e Dados em logística. Tenho cerca de 12 anos de operação, hoje na DHL Supply Chain, e sou certificado Lean Six Sigma Black Belt.
 
----
+Uso dados para achar o gargalo, medir o ganho e padronizar a solução no chão de fábrica. Agora estou aprofundando a parte técnica (SQL, Python, Power BI) rumo a Ciência de Dados.
 
-## 🌱 O que estou aprendendo  
-- **Python**: Desenvolvimento back-end, automação, manipulação de dados e análise estatística  
-- **React**: Criação de interfaces modernas e responsivas  
-- **PHP e derivados**: Construção de aplicações web escaláveis  
-- **SQL**: Consultas avançadas e gerenciamento de bancos de dados relacionais  
+## O que eu uso
 
----
+| Área | Ferramentas |
+|---|---|
+| Dados e análise | SQL (Oracle, SQLite) · Python (pandas, Matplotlib, Jupyter) · Excel avançado e Power Query |
+| Visualização | Power BI |
+| Processos e Lean | Cronoanálise · takt time · balanceamento de linha (Yamazumi) · VSM · PDCA · Ishikawa · 5 Porquês · 5S |
+| Layout | AutoCAD 2D · estudos de layout de armazém |
+| Versionamento | Git · GitHub |
 
-## 💼 Habilidades  
-- **Desenvolvimento Full Stack**: Python, React, PHP, Flask, Node.js, HTML, CSS, JavaScript  
-- **Bancos de Dados**: MySQL, PostgreSQL, SQLite, Microsoft SQL Server  
-- **Ferramentas de BI**: Excel, Power BI, Google Data Studio  
-- **Controle de Versão**: Git  
-- **Outros**: Visualização de dados, automação de processos e criação de dashboards  
+## Projetos em destaque
 
----
+| Projeto | O que é | Stack |
+|---|---|---|
+| [analise-transparencia](https://github.com/Luis-Filipe-Santos/analise-transparencia) | Análise exploratória das viagens a serviço do Governo Federal em 2024: custo, destino, duração e qualidade dos dados. | Python · pandas · Matplotlib |
+| [logistics](https://github.com/Luis-Filipe-Santos/logistics) | Análise em SQL do efeito do congestionamento de tráfego no atraso das entregas. | SQL · SQLite |
+| [etl_Python_excel](https://github.com/Luis-Filipe-Santos/etl_Python_excel) | Profiling e schema de validação para dados de campanhas de anúncios. | Python · ydata-profiling · Pydantic |
 
-## 📫 Como me encontrar  
-- 📧 E-mail: **filipesantos.silvaluis@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/luis-filipe-santos-silva](https://www.linkedin.com/in/luis-filipe-santos-silva)  
-- 📷 Instagram: [filipe_lss](https://www.instagram.com/filipe_lss)  
+## Contato
 
----
-
-## 🚀 Projetos em Destaque  
-Alguns dos meus projetos que demonstram meu trabalho com dados e desenvolvimento:  
-
-- [**Análise de Transparência**](https://github.com/Luis-Filipe-Santos/analise-transparencia)  
-  Projeto focado em análise de dados para promover transparência, usando técnicas de visualização e manipulação.  
-
-- **ETL Python Excel (Em breve)**  
-  Implementação de um processo ETL para processar e transformar dados de
-
+[LinkedIn](https://www.linkedin.com/in/luis-filipe-santos-silva)
